@@ -31,8 +31,20 @@ PrefabInstance:
       value: StrongFollowerGraphic
       objectReference: {fileID: 0}
     - target: {fileID: 3558404673820712262, guid: 771279c51ed104a4780f2db9e052f40d, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 55bf555ed27103b48a1eb99de868fafc, type: 3}
+    - target: {fileID: 3558404673820712262, guid: 771279c51ed104a4780f2db9e052f40d, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3558404673820712262, guid: 771279c51ed104a4780f2db9e052f40d, type: 3}
       propertyPath: m_Color.g
-      value: 0.55339336
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3558404673820712262, guid: 771279c51ed104a4780f2db9e052f40d, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4526887762990001381, guid: 771279c51ed104a4780f2db9e052f40d, type: 3}
       propertyPath: _data._json
