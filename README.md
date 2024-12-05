@@ -1,10 +1,12 @@
 # Final Project (Krill Bruh)
 
-Player Vs Game
+Kat Kage
 
 # References
 
-N/A
+assests created by Lauren Cole
+entities and gameplay created by William Hoffman
+health bar and ui by Ethan Brock
 
 # Created by 
 
