@@ -20,7 +20,7 @@ If you kill the player you win.
 If you run out of money and units you lose.
 
 ## Impediments
-The main character took the most amount of time. The AI for the main character is a large decision tree. We thought about added enemies with guns but this ended up being too complex for the main character to handle.
+The main character took the most amount of time. The AI for the main character is a large decision tree. We thought about adding enemies with guns but this ended up being too complex for the main character to handle.
 
 ## Implementation
 Summon 2 enemy types
