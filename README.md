@@ -45,6 +45,8 @@ Game assets - created by Lauren Cole using Pixelart.com
 
 Music - Logn_
 
+Sounds - created using https://sfbgames.itch.io/chiptone
+
 ## Future Development
 
 more unit types?
