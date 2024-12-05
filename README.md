@@ -41,7 +41,9 @@ Multiple scenes: win, loss, title, instructions, level
 
 ## References
 
+Game assets - created by Lauren Cole using Pixelart.com
 
+Music - Logn_
 
 ## Future Development
 
