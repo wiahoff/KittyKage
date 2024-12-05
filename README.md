@@ -28,7 +28,11 @@ Multiple scenes: win, loss, title, instructions, level
 
 ## References
 
+
+
 ## Future Development
+
+more unit types?
 
 # Created by: Group Name
 William Hoffman - all AI, game controller and game logic
